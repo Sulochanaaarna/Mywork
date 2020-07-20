@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131" started-at="2020-07-16T10:17:25Z" finished-at="2020-07-16T10:17:25Z">
+    <groups>
+      <group name="Light">
+        <method signature="demotestquiz.color1()[pri:0, instance:Demos.demotestquiz@7921b0a2]" name="color1" class="Demos.demotestquiz"/>
+      </group> <!-- Light -->
+      <group name="Dark">
+        <method signature="demotestquiz.color2()[pri:0, instance:Demos.demotestquiz@7921b0a2]" name="color2" class="Demos.demotestquiz"/>
+      </group> <!-- Dark -->
+    </groups>
+    <test name="Test" duration-ms="131" started-at="2020-07-16T10:17:25Z" finished-at="2020-07-16T10:17:25Z">
+      <class name="Demos.demotestquiz">
+        <test-method status="PASS" signature="color1()[pri:0, instance:Demos.demotestquiz@7921b0a2]" name="color1" duration-ms="31" started-at="2020-07-16T15:47:25Z" finished-at="2020-07-16T15:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- color1 -->
+        <test-method status="PASS" signature="color2()[pri:0, instance:Demos.demotestquiz@7921b0a2]" name="color2" duration-ms="10" started-at="2020-07-16T15:47:25Z" finished-at="2020-07-16T15:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- color2 -->
+      </class> <!-- Demos.demotestquiz -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
